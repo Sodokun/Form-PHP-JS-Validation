@@ -1,0 +1,10 @@
+Crear una DB sql_test con una table de forma:
+
+CREATE TABLE `form` (
+  `first_n` varchar(40) NOT NULL,
+  `last_n` varchar(40) NOT NULL,
+  `email` varchar(30) NOT NULL,
+  `password` varchar(20) NOT NULL
+)
+
+luego importar 1 de los arcvhivos sql
